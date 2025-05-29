@@ -1,6 +1,7 @@
 name: Compile PDFs
 
 on:
+  workflow_dispatch:
   push: {}
   pull_request: {}
 
